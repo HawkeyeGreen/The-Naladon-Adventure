@@ -1,0 +1,5 @@
+﻿TextBody-Begin
+Ich bin ein Testtext. Meine Aufgabe ist es eingelesen zu werden...
+...und dann wieder ordnungsgemäß ausgegeben zu werden.
+Ich kann weder formatiert und noch dynamisch erzeugt werden... leider.
+TextBody-End
