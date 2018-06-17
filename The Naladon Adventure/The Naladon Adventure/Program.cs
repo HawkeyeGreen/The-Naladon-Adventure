@@ -15,6 +15,9 @@ namespace The_Naladon_Adventure
             AbstractPageText testPage = GeneralParser.getInstance().readPageText("TEST.txt");
             testPage.drawPage(true, true);
             System.Console.ReadLine();
+
+
+
         }
     }
 }
